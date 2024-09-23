@@ -1,0 +1,11 @@
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\bin\Debug\NiOP-06-CheckBox.exe.config
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\bin\Debug\NiOP-06-CheckBox.exe
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\bin\Debug\NiOP-06-CheckBox.pdb
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP_06_CheckBox.Form1.resources
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP_06_CheckBox.Properties.Resources.resources
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.csproj.GenerateResource.cache
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.exe
+C:\Users\korisnik\Documents\NiOP-06-CheckBox\NiOP-06-CheckBox\obj\Debug\NiOP-06-CheckBox.pdb
